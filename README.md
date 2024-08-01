@@ -1,1 +1,1 @@
-# W1D1-Mongo-DB
+Epicode Blog Template
